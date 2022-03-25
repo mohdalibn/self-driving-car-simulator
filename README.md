@@ -15,6 +15,15 @@
 <!-- Project Tech-Stack -->
 # ![technologies-used (10)](https://user-images.githubusercontent.com/95453430/160094715-ad3e31e1-dec2-4873-90ea-40095f92274d.svg)
 
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/sckit%20learn-%23F7931E.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Panda](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <!-- How To Use Project -->
 # ![how-to-use-project (5)](https://user-images.githubusercontent.com/95453430/160094718-96234048-fe18-4192-9c51-60167121c836.svg)
