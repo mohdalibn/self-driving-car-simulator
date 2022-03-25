@@ -11,6 +11,15 @@
 <!-- Project Decription -->
 # ![project-description (10)](https://user-images.githubusercontent.com/95453430/160094706-84acb30d-dd80-4b6c-9d36-306a403e0545.svg)
 
+This is a **Python Machine Learning Project** in which a **Self-Driving Car Model** is trained to play in the **Open Source Self-Driving Car Simulator By Udacity** using the **Convolutional Neural Network Model** proprosed by **Nvidia** . The image below shows the higher level architecture of Nvidia's Model.
+
+<a href="https://developer.nvidia.com/blog/deep-learning-self-driving-cars/" target="_blank"> Click Here For View Nvidia's Article On This Topic</a>
+
+![Model Architecture](https://developer.nvidia.com/blog/parallelforall/wp-content/uploads/2016/08/training-624x291.png)
+
+The Proprosed CNN model was made up of 5 2D Convolutional Layers followed by 1 Flatten layer and 4 Dense layers. Refer the image below.
+
+![CNN Architecture](https://developer.nvidia.com/blog/parallelforall/wp-content/uploads/2016/08/cnn-architecture-624x890.png)
 
 <!-- Project Tech-Stack -->
 # ![technologies-used (10)](https://user-images.githubusercontent.com/95453430/160094715-ad3e31e1-dec2-4873-90ea-40095f92274d.svg)
