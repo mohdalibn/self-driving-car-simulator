@@ -95,3 +95,15 @@ pip install Pillow
 pip install Flask
 ```
 
+Download a copy of this repository onto your local machine and extract it into a suitable folder.
+- Create a Virtual Environment in that folder.
+- Install all the required Python libraries mentioned above.
+- <a href="https://github.com/udacity/self-driving-car-sim">Click here to download the Self Driving Car Simulator from Udacity's Github Repository</a>
+- Extract the Simulator files into a folder in the project directory for better accesibility. (Recommended but not required)
+- A trained model is already included (autocar.h5) in the repository and so, if you just want to test this project and not train your own model, then first open the simulator and get to the main menu screen. After that, run the SimuationTesting.py file. Once the server is established, click on the **AUTONOMOUS MODE** option in the simulator and watch the model drive on the map.
+- If you want to train your own model, delete the existing autocar.h5 model and in the **Root Directory** of the Project, create a new folder and name it **MyData**. This is the folder in which the training images are going to be store along with the csv file.
+- Open the simulator and click on **TRAINING MODE**. Click the record button that's on the top right of the simulator window and select the **MyData** folder as your output folder.
+- Once the recording starts, complete 3 to 5 laps around the track and stop the recording. Once the recorded data process is complete, turn the car around in the opposite direction and start recording a new session with 3 to 5 laps in the new clockwise direction of the track.
+- Once the training data is collected and stored in the MyData folder, run the **SimulationTraining.py** file from the **Root Directory**
+- Once the training phase is complete, follow **STEP 5** to test your model in the simulator. 
+- Enjoying trying out the project for yourself !
