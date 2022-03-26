@@ -36,3 +36,62 @@ The Proprosed CNN model was made up of 5 2D Convolutional Layers followed by 1 F
 
 <!-- How To Use Project -->
 # ![how-to-use-project (5)](https://user-images.githubusercontent.com/95453430/160094718-96234048-fe18-4192-9c51-60167121c836.svg)
+
+**Install the following Python libraries in your Virtual Environment using PIP**.
+
+*Note: The library names are **CASE-SENSITIVE** for PIP installations below. Make sure your type them correctly.*
+
+*Install OpenCV for Python*
+```Python
+pip install opencv-python
+```
+
+*Install Tensorflow for Python*
+```Python
+pip install tensorflow
+```
+
+*Install sckit-learn for Python*
+```Python
+pip install sklearn
+```
+
+*Install Pandas for Python*
+```Python
+pip install pandas
+```
+
+*Install Numpy for Python*
+```Python
+pip install numpy
+```
+
+*Install Matplotlib for Python*
+```Python
+pip install matplotlib
+```
+
+*Install Image Augmentation for Python*
+```Python
+pip install imgaug
+```
+
+*Install Socket IO for Python*
+```Python
+pip install python-socketio
+```
+
+*Install Eventlet for Python*
+```Python
+pip install eventlet
+```
+
+*Install Pillow for Python*
+```Python
+pip install Pillow
+```
+*Install Flask for Python*
+```Python
+pip install Flask
+```
+
